@@ -12,7 +12,7 @@
 ![Moving](images/world.gif)
 
 ### Face with Blinn-Phong lighting
-![Moving](images/face.gif)
+![Moving](https://github.com/BlurNeo/Animation/blob/main/images/face.gif)
 
 ### Physics
 ![Moving](images/shooting.gif)
